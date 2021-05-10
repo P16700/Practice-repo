@@ -1,2 +1,2 @@
 # Practice-repo
-This is a practice repository for p
+In this repository, we will be covering issues, pull requests and insights.
